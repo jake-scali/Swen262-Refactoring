@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3fa98bb-6848-4b02-972d-348f3383e05b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BlueKing.gif" afterPath="$PROJECT_DIR$/src/BlueKing.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BlueSingle.gif" afterPath="$PROJECT_DIR$/src/BlueSingle.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Board.java" afterPath="$PROJECT_DIR$/src/Board.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CheckerGUI.java" afterPath="$PROJECT_DIR$/src/CheckerGUI.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Driver.java" afterPath="$PROJECT_DIR$/src/Driver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Facade.java" afterPath="$PROJECT_DIR$/src/Facade.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Firstscreen.java" afterPath="$PROJECT_DIR$/src/Firstscreen.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/KingPiece.java" afterPath="$PROJECT_DIR$/src/KingPiece.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Known Problems.txt" afterPath="$PROJECT_DIR$/src/Known Problems.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LocalPlayer.java" afterPath="$PROJECT_DIR$/src/LocalPlayer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Move.java" afterPath="$PROJECT_DIR$/src/Move.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NetworkMove.java" afterPath="$PROJECT_DIR$/src/NetworkMove.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NetworkPlayer.java" afterPath="$PROJECT_DIR$/src/NetworkPlayer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Notifier.java" afterPath="$PROJECT_DIR$/src/Notifier.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Piece.java" afterPath="$PROJECT_DIR$/src/Piece.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PlayCheckers.java" afterPath="$PROJECT_DIR$/src/PlayCheckers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Player.java" afterPath="$PROJECT_DIR$/src/Player.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/src/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Rules.java" afterPath="$PROJECT_DIR$/src/Rules.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Secondscreen.java" afterPath="$PROJECT_DIR$/src/Secondscreen.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SinglePiece.java" afterPath="$PROJECT_DIR$/src/SinglePiece.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestingKernel.java" afterPath="$PROJECT_DIR$/src/TestingKernel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Timer.java" afterPath="$PROJECT_DIR$/src/Timer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WhiteKing.gif" afterPath="$PROJECT_DIR$/src/WhiteKing.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WhiteSingle.gif" afterPath="$PROJECT_DIR$/src/WhiteSingle.gif" />
-    </list>
+    <list default="true" id="d3fa98bb-6848-4b02-972d-348f3383e05b" name="Default" comment="" />
     <ignored path="Swen262-Refactoring.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
